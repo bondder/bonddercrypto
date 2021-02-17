@@ -1,0 +1,2 @@
+debian/bin/Bondd usr/bin
+src/Bondd usr/lib/Bond

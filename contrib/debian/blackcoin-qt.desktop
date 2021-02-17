@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bond
+Comment=Bond P2P Cryptocurrency
+Comment[fr]=Bond, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bond, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Bond-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Bond;
+Categories=Office;
